@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# OctFourteen
+#
+
+projectname: OctFourteen
+vendorid: com.mycompany
+mainmodule: com.mycompany.octfourteen
